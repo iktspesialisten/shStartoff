@@ -1,0 +1,6 @@
+Using the common version system where three numbers represents the process of this project.
+0.0.1 <- The last 0 are minor changes and increases with 1. This could be a simple spelling error.
+0.1.0 <- This second number is when the project is taken to the next level but is still backward compatible#1.0.0 <- The first number will define a version change. It means, it is awhole new version of the project.
+This is just normal version schematics.
+
+1.Mars.2020 : v0.0.2
